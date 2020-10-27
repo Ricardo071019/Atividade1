@@ -7,11 +7,15 @@
 
 </head>
 <body>
-	<h2>@yield('header')</h2>
-	@yield('conteudo')
+	<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+<a class="navbar-brand" href="#">@yield('header')</a>
+</nav>
+	<h1>@yield('conteudo')</h1>
 
 	<script src="{{asset('js/jquery-3.5.1.min.js')}}"></script>
 	<script src="{{asset('js/bootstrap.js')}}"></script>
+
+
 
 
 </body>
