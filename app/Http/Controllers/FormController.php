@@ -9,8 +9,8 @@ class FormController extends Controller
    public function mostrarForm(){
    	return view('mestre');
    }
-     public function paises(){
-   	return view('paises');
+     public function viagens(){
+   	return view('viagens');
    }
    public function contacto(){
    	return view('contacto');

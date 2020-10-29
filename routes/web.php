@@ -19,7 +19,7 @@ Route::get('/', function () {
 
 
 Route::get('mestre','App\Http\Controllers\FormController@mostrarForm')->name('mostrar.form');
-Route::get('paises','App\Http\Controllers\FormController@paises')->name('paises');
+Route::get('viagens','App\Http\Controllers\FormController@viagens')->name('viagens');
 Route::get('contacto','App\Http\Controllers\FormController@contacto')->name('contacto');
 Route::get('Localidade','App\Http\Controllers\FormController@Localidade')->name('Localidade');
 
