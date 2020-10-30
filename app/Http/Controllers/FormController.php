@@ -15,8 +15,8 @@ class FormController extends Controller
    public function contacto(){
    	return view('contacto');
    }
-   public function Localidade(){
-   	return view('Localidade');
+   public function Agências(){
+   	return view('Agências');
    }
 }
 

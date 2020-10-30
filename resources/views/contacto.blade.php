@@ -15,7 +15,7 @@ RikAgency
 
 
 <form>
-
+<h1 style="text-align: center; font-family: Bell MT; font-size: 30px">	
 	<br><label for="nome">Nome</label>
 	<input type="text" name="nome">
 	<br>
@@ -33,7 +33,9 @@ RikAgency
 	<br>
 
 	<br><button type="submit">Enviar</button>
+</h1>
 </form>	
+
 
 
 

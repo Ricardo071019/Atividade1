@@ -12,7 +12,7 @@
 	<a class="nav-link" href="viagens">Viagens <span class="sr-only">(atual)</span></a>
 	</li>
 	<li class="nav-item">
-	<a class="nav-link" href="Localidade">Localidade</a>
+	<a class="nav-link" href="Agências">Agências</a>
 	</li>
 	<li class="nav-item">
 	<a class="nav-link disable" href="contacto">Contacto</a>
