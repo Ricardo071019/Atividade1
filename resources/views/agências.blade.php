@@ -19,7 +19,13 @@ RikAgency
 	<img src="img/j.png">	
 	<img src="img/taca.png">
 	<img src="img/ics.png">		
-
+	<br>
+	<br>
+	<br>
+	<br>
+	<h1 style="font-size: 24px"><footer>
+  Ricardo Carneiro Fernandes nº9 Turma:12i.2  <article>
+</footer> </h1> 
 	
 
 

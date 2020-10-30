@@ -15,7 +15,16 @@ RikAgency
 	<br>
 	<br>
 	<h1 style="text-align: center; font-size: 30px">Já se tornou uma tradição no Alma de Viajante apresentar sugestões de destinos de viagem para o novo ano que se aproxima. Vou, pois, sugerir tres dos locais mais viagados (Azerbaijão, Roma e Grécia) para o inspirar na hora de escolher para onde viajar em 2021. São, por assim dizer, uma espécie de melhores destinos para tal. Seja porque sofreram mudanças recentes e é melhor conhecer o quanto antes;</h1>
-
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	
+<h1 style="font-size: 24px"><footer>
+  Ricardo Carneiro Fernandes nº9 Turma:12i.2  <article>
+</footer> </h1> 
 
 
 
